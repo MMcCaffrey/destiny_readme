@@ -12,6 +12,11 @@ Currently, Destiny has over 3,000 venues in it. It ranges from dog parks to danc
 
 More cities can be added to Destiny in the future. If you are interested in expansion, please let us know!
 
+# Austin venue analysis
+Looking at Austin venues, it appears that there are 4 major types of places.
+
+![alt text](images/nmf.jpg?raw=true)
+
 Coming to the app store December 2017!
 
 #Destiny Team
