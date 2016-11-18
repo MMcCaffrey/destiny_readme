@@ -14,8 +14,11 @@ Coming to the app store December 2017!
 
 #Destiny Team
 design: Robert Boler [robertboler.com][1]
+
 iOS dev: Ryan Cortez [ryancortez.com] [2]      
+
 backend dev: Justin Sofia [justinsofia.com][3]
+
 data science: Charles McCann charles.t.mccann@gmail.com
 [1]: http://robertboler.com/ "Robert Boler"
 [2]: http://ryancortez.com/ "Ryan Cortez"
