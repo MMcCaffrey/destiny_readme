@@ -1,4 +1,4 @@
-﻿# destiny_readme
+﻿# Destiny Readme
 
 ![alt text](images/tx-austin-skyline-feature.jpg?raw=true)
 
@@ -6,7 +6,7 @@
 
 Destiny is an app that takes your interests and current mood to recommend something to do at that time. For example, if you have
 dogs as an interest and you state your current mood is "active" it might suggest Zilker Park. You only have to enter your 
-interests once but mood can vary every time you use it. Destiny uses NLP to find the best match for your interests and mood at that time.
+interests once but mood can vary every time you use it. Destiny uses Natural Language Processing to find the best match for your interests and mood at that time.
 
 Currently, Destiny has over 3,000 venues in it. It ranges from dog parks to dance clubs. Whatever mood you are in, Destiny can give you a recommendation.
 
