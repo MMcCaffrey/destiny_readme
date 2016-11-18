@@ -13,10 +13,12 @@ More cities can be added to Destiny in the future. If you are interested in expa
 Coming to the app store December 2017!
 
 #Destiny Team
-##design: Robert Boler robertboler.com
-##iOS dev: Ryan Cortez ryancortez.com       
-##backend dev: Justin Sofia justinsofia.com
+##design: Robert Boler [robertboler.com][1]
+##iOS dev: Ryan Cortez [ryancortez.com] [2]      
+##backend dev: Justin Sofia [justinsofia.com][3]
 ##data science: Charles McCann charles.t.mccann@gmail.com
-
+[1]: http://robertboler.com/ "Robert Boler"
+[2]: http://ryancortez.com/ "Ryan Cortez"
+[3]: http://justinsofia.com/static/index.html "Justin Sofia"
 #
 ![alt text](images/destiny.jpg?raw=true)
