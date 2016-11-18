@@ -1,4 +1,4 @@
-﻿# Destiny Readme
+﻿#
 
 ![alt text](images/tx-austin-skyline-feature.jpg?raw=true)
 
